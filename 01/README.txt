@@ -1,3 +1,3 @@
-Week 01 // Assignment 3
-Modify your composition or create a new one that augments or overlays an existing image (render on top of a photograph, drawing, design etc.)
+Week 01 // Assignment 1
+Complete the easing "cheat sheet" exercise from class to show various types of curves (extra credit : animate along curves only on mouse over).
  

@@ -6,4 +6,4 @@ WEEK 2 HOMEWORK //
 Had trouble with creating an array (can't figure out the syntax) -I'd love your help with this one!
 
 3. The size of the character is controlled by the gui, the color by a sine wave.
-Couldn't understand why it seems to move sideways when following the move (want to fix that).
+Couldn't understand why it seems to move sideways when following the mouse (want to fix that).

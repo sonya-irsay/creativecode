@@ -1,0 +1,11 @@
+﻿  CoolLine.cpp
+C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  w3_first_own_custom_class.vcxproj -> C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\apps\myApps\w3_first_own_custom_class\bin\w3_first_own_custom_class_debug.exe
+  w3_first_own_custom_class.vcxproj -> bin\w3_first_own_custom_class_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\export\vs\x64\

@@ -3,7 +3,7 @@ WEEK 3 ASSIGNMENTS
 1. Was fun to make - I got really stuck with tyring to create transparency/trails - finally found a way that works, 
 but I'm still not sure why it works this way in OF
 
-2. Shaders are hard
+2. Shaders are hard (+ couldn't get the u_mouse to work??)
 
 3. This was a start for the idea of printing postcards with the image/screenshot of one's location in Google Maps.
 

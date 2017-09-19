@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title> GEO POSTCARD </title>
+	<link media="screen">
+	<link title="GEO POSTCARD">
+</head>
+<body style="background-image:url(data/maps_screenshot.png)">
+<head>
+<style>
+mark {
+    background-color: white;
+    color: black;
+}
+@font-face {
+   font-family: WebpageFont;
+   src: url(data/euclidflex-medium-webtrial.woff);
+}
+div {
+   font-family: WebpageFont;
+   font-color: #FFFFFF;
+}
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button {
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 50%;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: WebpageFont;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+</style>
+</head>
+<body>
+
+<div class="wrapper">
+    <input type="button" class="button" onclick="getLocation()" value="PRINT MY LOCATION">
+    <mark id="demo"></mark>
+</div>
+
+<script>
+var x = document.getElementById("demo");
+
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(showPosition);
+    } else {
+        x.innerHTML = "Geolocation is not supported by this browser.";
+    }
+}
+
+function showPosition(position) {
+    x.innerHTML = "Latitude: " + position.coords.latitude +
+    "<br>Longitude: " + position.coords.longitude;
+}
+</script>
+
+</body>
+</html>

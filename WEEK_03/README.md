@@ -5,7 +5,7 @@ but I'm still not sure why it works this way in OF
 
 2. Shaders are hard (+ couldn't get the u_mouse to work??)
 
-3. This was a start for the idea of printing postcards with the image/screenshot of one's location in Google Maps.
+3. This was a start for the idea of printing postcards with the image/screenshot of one's location in Google Maps. So far it only shows you your long + lad coordinates when you click. 
 
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_03/assignment_01.gif "project 1")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_03/assignment_02_shader.gif "project 2")

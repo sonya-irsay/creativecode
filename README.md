@@ -3,6 +3,7 @@ creative code fall 2017
 
 # gif gallery
 
+![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_01/sanie_week01_03/week1_imagebackground.gif "week 1")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_03/assignment_01.gif "week 03")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_03/assignment_02_shader.gif "week 03")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_03/assignment_03_research.gif "week 03")

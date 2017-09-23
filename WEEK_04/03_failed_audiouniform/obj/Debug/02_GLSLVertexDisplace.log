@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (GLSLVertexDisplace.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ofApp.cpp
+  02_GLSLVertexDisplace.vcxproj -> C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\apps\myApps\02_GLSLVertexDisplace\bin\02_GLSLVertexDisplace_debug.exe
+  02_GLSLVertexDisplace.vcxproj -> bin\02_GLSLVertexDisplace_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\export\vs\Win32\

@@ -4,10 +4,10 @@
 void ofApp::setup(){
     shader.load("shader.vert","shader.frag");
     
-    img.load("stripes.jpg");
+    img.load("4.jpg");
     img.resize(50, 50);
     img.update();
-    plane.set(500, 500, 50, 50);
+    plane.set(500, 500, 50, 50, OF_PRIMITIVE_TRIANGLES);
     plane.mapTexCoordsFromTexture(img.getTexture());
 
 	//SOUND
@@ -51,19 +51,20 @@ void ofApp::update(){
 //--------------------------------------------------------------
 void ofApp::draw(){
     
+	ofSetBackgroundColor(0);
+
     ofEnableDepthTest();
     img.bind();
 
     cam.begin();
     shader.begin();
         shader.setUniform1f("time", smoothedVol);
-        plane.draw();
+        plane.drawWireframe();
     shader.end();
     cam.end();
     
     ofDisableDepthTest();
 
-    img.draw(0,0,100,100);
 }
 
 

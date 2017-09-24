@@ -21,7 +21,8 @@ void main()
 		
     // use the displacement we created from the texture data
     // to modify the vertex position
-    modifiedPosition.z += displacementY * scale * (sin(time));
+    //modifiedPosition.z += displacementY * scale * (sin(time));
+	modifiedPosition.z += displacementY * scale * (sin(time*100.0));
 
     // this is the resulting vertex position multiplied by the correct matrix
 	gl_Position = gl_ModelViewProjectionMatrix * modifiedPosition;

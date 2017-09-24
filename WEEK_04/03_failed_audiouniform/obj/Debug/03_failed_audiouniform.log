@@ -1,7 +1,5 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (02_GLSLVertexDisplace.vcxproj, GLSLVertexDisplace.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
   ofApp.cpp
-     Creating library bin\03_failed_audiouniform_debug.lib and object bin\03_failed_audiouniform_debug.exp
   03_failed_audiouniform.vcxproj -> C:\Users\sanika\Documents\OF\of_v0.9.8_vs_release\apps\myApps\03_failed_audiouniform\bin\03_failed_audiouniform_debug.exe
   03_failed_audiouniform.vcxproj -> bin\03_failed_audiouniform_debug.pdb (Full PDB)
   

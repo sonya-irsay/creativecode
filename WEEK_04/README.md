@@ -1,7 +1,7 @@
 ## assignment 1:
 issues:
 
-warning: ofRtAudioSoundStream: stream over/underflow detected (resolved here: https://github.com/openframeworks/openFrameworks/issues/5120)
+warning: ofRtAudioSoundStream: stream over/underflow detected = resolved [here:] (https://github.com/openframeworks/openFrameworks/issues/5120)
 
 ## assignment 2:
   ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_04/w4_assignment_2.gif "assignment 2")

@@ -3,6 +3,8 @@ issues:
 
 warning: ofRtAudioSoundStream: stream over/underflow detected = resolved [here:] (https://github.com/openframeworks/openFrameworks/issues/5120)
 
+[here](https://github.com/openframeworks/openFrameworks/issues/5120)
+
 ## assignment 2:
   ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_04/w4_assignment_2.gif "assignment 2")
   So far, the app has two scenes - both are vertex shaders reacting to audio input; the first scene (blue) has a gui

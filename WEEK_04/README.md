@@ -13,3 +13,26 @@ issues:
 the gui does not display properly (the title and slider are missing)
 
 wanted to make a gui to control the "blurriness" of the sphere
+
+## research project:
+AR + Monuments/Public spaces
+ 
+Excerpt from *3 ways augmented reality will transform UX design*, Michael Park, 2017.
+
+“When designing for a 3D medium, UX designers also have to consider how to anchor the user’s work space or play space. It’s crucial that users are able to easily adjust and adapt to different environments. With every UX decision, designers must now consider the physical space into which our digital elements will be overlaid. UX research will involve testing software in different lighting and weather conditions, and in various kinds of exteriors and interiors.”
+
+This article explores the potential transformations of UX design with the development of AR, specifically its introduction of “Z-depth: the capability to organize and interact with information in your Z-axis.” The author asks how user interaction standards will be redefined through AR – will the acts of clicking, zooming, scrolling, typing, etc. transform into gestures that are more intuitive and closer to how we interact with the physical world? The excerpt above was the most intriguing part of the text, especially its focus on “[anchoring] the user’s work space or play space.” How do our interfaces function in or *mediate* work, play, leisure, meditative, public, private spaces? 
+
+Broad definition of AR from *Reality Bytes: Does augmented reality technology help us see deeper into what's before our eyes.* Walker, Rob. New York Times, 2009.
+
+“Very broadly, augmented reality can be thought of as an inversion of the venerable “virtual reality” buzz concept. Instead of plunging us into a completely digital environment, augmented reality means placing digital thins into the regular old world.”
+
+Excerpt from *In Transit*, Elaine Glusac, New York Times, 2010.
+
+“Augmented reality – the hot new thing in smartphone technology – is starting to trickle into travel apps. Most travel apps – whether for booking flights or finding bathrooms – function like portable Web sites. But augmented reality uses a phone’s built-in camera, GPS and compass and turns what you see into a kind of hyperlinked pop-up video.”
+This excerpt opened up the possibility if researching/exploring *tourism* in relation to monuments, statues, public squares, etc., which can add another dimension to my topic.
+
+//
+
+
+

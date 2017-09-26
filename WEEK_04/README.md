@@ -1,4 +1,6 @@
 ## assignment 1:
+![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_04/w4_assignment_01.gif "assignment 1")
+
 issues:
 
 warning: ofRtAudioSoundStream: stream over/underflow detected = resolved [here](https://github.com/openframeworks/openFrameworks/issues/5120)
@@ -42,6 +44,7 @@ This excerpt opened up the possibility if researching/exploring *tourism* in rel
 5. “The Fourth Apple,” by Frank Scurti, from January 10, 2011 to present day.
 
 ![alt text](https://www.standard.co.uk/s3fs-public/styles/hero_tablet/public/thumbnails/image/2017/06/29/09/suffragette-design.jpg)
+
 [Gillian Wearing, first female artist to create statue for London square](https://www.theguardian.com/artanddesign/2017/sep/20/artist-gillian-wearing-unveils-design-parliament-square-statue-suffragist-leader-millicent-fawcett#img-1)
 
 ![alt text](http://www.historytoday.com/sites/default/files/vendome.jpg)

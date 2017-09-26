@@ -34,5 +34,17 @@ This excerpt opened up the possibility if researching/exploring *tourism* in rel
 
 //
 
+![alt text](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_04/research_images/1.jpg)
+1. Statue of Charles Fourier, work of the sculptor Emile Derré made in 1899. The statue was removed and melted down in 1942.
+2. Exact replica of the original statue, made of plaster but finished in bronze was set upon its pedestal in 1969 by twenty or so “unknowns.” Removed by the police the following day.
+3. Empty plinth.
+4. “Le collectif aéroporté” completed this installation in 2007; taken down.
+5. “The Fourth Apple,” by Frank Scurti, from January 10, 2011 to present day.
+
+![alt text](https://www.theguardian.com/artanddesign/2017/sep/20/artist-gillian-wearing-unveils-design-parliament-square-statue-suffragist-leader-millicent-fawcett#img-1)
+[Gillian Wearing, first female artist to create statue for London square](https://www.theguardian.com/artanddesign/2017/sep/20/artist-gillian-wearing-unveils-design-parliament-square-statue-suffragist-leader-millicent-fawcett#img-1)
+
+![alt text](http://www.historytoday.com/sites/default/files/vendome.jpg)
+[The Vendôme Column](https://en.wikipedia.org/wiki/Place_Vend%C3%B4me#The_Vend.C3.B4me_Column)
 
 

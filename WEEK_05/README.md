@@ -1,4 +1,4 @@
-// WEEK 5
+## // WEEK 5
 
 // assignment 1: i was going for a "snake-like" generative drawing - turned out more like pipes, telephone wires, machine-like:
 
@@ -20,8 +20,8 @@
 - switch between modes using 1-3, go back to start with 0
 - plays an audio excerpt of Buckminster Fuller speaking about "Spaceship Earth"
 - mode 1: shader sphere with terrain mapped as texture, reacts to app audio and live audio
-- gui to control the radiusof the circle and volume of audio file
-- mode 2: plane/terrain shader, also reacts to live audio
+- gui to control the radius of the circle and volume of audio file
+- mode 2: plane/terrain shader, also reacts to live audio (the terrain is an areial view of Bure, France)
 - mode 3: takes camera input and translates the pixel data into lines, depending on pixel brightness
 
 ## // app issues:

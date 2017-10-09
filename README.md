@@ -1,5 +1,6 @@
 # creativecode
 creative code fall 2017
+https://docs.google.com/a/newschool.edu/presentation/d/1frn-AhpDfZLJ9sK9yVRHDroscuJ0RY9XI87Yv1uI0xk/edit?usp=sharing
 
 # gif gallery
 

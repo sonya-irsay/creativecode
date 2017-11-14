@@ -7,6 +7,7 @@ https://docs.google.com/a/newschool.edu/presentation/d/1frn-AhpDfZLJ9sK9yVRHDros
 
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_09/week9_ar.gif "week 9 ar test")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_08/week_8.gif "week 8")
+![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_08/week_8_distortion.gif "week 8")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_07/vr_inside_small.gif "vr inside with erica")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_07/vr_outside_small.gif "vr outside with erica")
 ![gif](https://github.com/sonya-irsay/creativecode/blob/master/WEEK_05/complete_app.gif "complete app")
